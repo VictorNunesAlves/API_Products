@@ -1,10 +1,10 @@
 const express = require('express');
 const app = express();
 const port = 3000;
-const conn = require('./Db/conn');
+const conn = require('./db/conn');
 const cors = require('cors');
 
-const productRoutes = require('./Routes/productRoutes');
+const productRoutes = require('./routes/productRoutes');
 
 app.use(express.urlencoded({ extended: true }));
 
