@@ -85,6 +85,8 @@ Siga estes passos para configurar e rodar o projeto no seu próprio computador.
 
 A aplicação já está hospedada, se preferir:
 
+**OBS: por ser uma hospedagem gratuita e limitada, a conexão pode demorar algum tempo, já que fica inativa se estiver a muito tempo sem receber uma conexão**
+
 ### 1. Pela Interface Web (Frontend)
 
 Você pode acessar e interagir com a API através da interface visual (frontend) que está hospedada em:
@@ -98,6 +100,8 @@ Esta interface foi criada por IA somente para fins de testa a API, e já está c
 Você pode usar o Postman (ou outra ferramenta) para se conectar diretamente à API que está na Render.
 
 **URL Base da API:** `https://api-products-xhhg.onrender.com/api/products`
+
+
 
 ---
 
